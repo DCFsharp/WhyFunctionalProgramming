@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "DesignPattern-FSharp", "DesignPattern-FSharp\DesignPattern-FSharp.fsproj", "{E2534657-052E-4A99-990B-963F6AF7FC01}"
+EndProject
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "Misc", "Misc\Misc.fsproj", "{2ED6BD42-7BE5-4470-A2AB-7187469BADA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSMisc", "CSMisc\CSMisc.csproj", "{60036CA5-B4B1-4B3D-BA00-B625FD0961C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ED6BD42-7BE5-4470-A2AB-7187469BADA3}.Debug|x86.ActiveCfg = Debug|x86
+		{2ED6BD42-7BE5-4470-A2AB-7187469BADA3}.Debug|x86.Build.0 = Debug|x86
+		{2ED6BD42-7BE5-4470-A2AB-7187469BADA3}.Release|x86.ActiveCfg = Release|x86
+		{2ED6BD42-7BE5-4470-A2AB-7187469BADA3}.Release|x86.Build.0 = Release|x86
+		{60036CA5-B4B1-4B3D-BA00-B625FD0961C6}.Debug|x86.ActiveCfg = Debug|x86
+		{60036CA5-B4B1-4B3D-BA00-B625FD0961C6}.Debug|x86.Build.0 = Debug|x86
+		{60036CA5-B4B1-4B3D-BA00-B625FD0961C6}.Release|x86.ActiveCfg = Release|x86
+		{60036CA5-B4B1-4B3D-BA00-B625FD0961C6}.Release|x86.Build.0 = Release|x86
+		{E2534657-052E-4A99-990B-963F6AF7FC01}.Debug|x86.ActiveCfg = Debug|x86
+		{E2534657-052E-4A99-990B-963F6AF7FC01}.Debug|x86.Build.0 = Debug|x86
+		{E2534657-052E-4A99-990B-963F6AF7FC01}.Release|x86.ActiveCfg = Release|x86
+		{E2534657-052E-4A99-990B-963F6AF7FC01}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DesignPattern-FSharp\DesignPattern-FSharp.fsproj
+	EndGlobalSection
+EndGlobal
